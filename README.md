@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning higher vocational training of 3d animation, 
 games and interactive environments, professional profile virtual worlds, augmented reality and "gamification" in Sant Marc de Sarrià School.
 - 📫 How to reach me: 
-   + Email: juliaarbat98@gmail.com or j.arbat@santmarc.com.
+   + Email: artbat03@gmail.com or j.arbat@santmarc.com.
    + Instagram: @artbat_developer.
 
 <!---
