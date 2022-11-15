@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Artbat03
-- 👀 I’m interested in game developing, specially I'm a game programmer.
+- 👀 I’m interested in game development, specially game programming.
 - 🌱 I’m currently learning higher vocational training of 3d animation, 
 games and interactive environments, professional profile virtual worlds, augmented reality and "gamification" in Sant Marc de Sarrià School.
 - 📫 How to reach me: 
