@@ -4,7 +4,9 @@
 games and interactive environments, professional profile virtual worlds, augmented reality and "gamification" in Sant Marc de Sarrià School.
 - 📫 How to reach me: 
    + Email: artbat03@gmail.com.
-   + [Instagram](https://www.instagram.com/artbat_developer/): https://www.instagram.com/artbat_developer/
+   + [Instagram](https://www.instagram.com/artbat_developer/)
+   + [LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-arbat-castillo-468256234/)
+   + [Youtube Channel](https://www.youtube.com/@artbat03)
 
 <!---
 Artbat03/Artbat03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
