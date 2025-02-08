@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Artbat03
 - 👀 I’m interested in game development, specially game programming.
-- 🌱 I’m currently learning higher vocational training of 3d animation, 
-games and interactive environments, professional profile virtual worlds, augmented reality and "gamification" in Sant Marc de Sarrià School.
+- 📚  I studied a higher vocational training of Game Development at Sant Marc de Sarrià School and a master's degree of Web Development at Nuclio Digital School.
+- 🌱 I’m currently studying a Computer Engineering Degree at Higher Polytechnic School.
 - 📫 How to reach me: 
-   + Email: artbat03@gmail.com.
+   + [Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=artbat03%40gmail.com)
    + [Instagram](https://www.instagram.com/artbat_developer/)
-   + [LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-arbat-castillo-468256234/)
+   + [LinkedIn](https://www.linkedin.com/in/julia-arbat-castillo-468256234/)
    + [Youtube Channel](https://www.youtube.com/@artbat03)
 
 <!---
